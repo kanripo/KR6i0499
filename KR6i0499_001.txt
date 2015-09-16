@@ -1,19 +1,18 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:21:03.443607
+#+DATE: 2015-08-30 20:21:03.701923
 #+TITLE: 佛說時非時經
 #+PROPERTY: CBETA_ID T17n0794b
 #+PROPERTY: ID KR6i0499
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 794b
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@YUAN
 #+PROPERTY: LASTPB <pb:KR6i0499_T_000-0739a>¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0499_T_001-0739a> ¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-
- 《佛說時非時經》¶
+《佛說時非時經》¶
 ¶
 天竺三藏法師若羅嚴譯¶
 
@@ -135,7 +134,7 @@
 
 「第七十五日，五脚半為時，三脚半非時。¶
 
-「從七月十六日至三十日。¶
+「從七月十五日至三十日。¶
 
 「第八十五日，六脚為時，四脚半非時；¶
 
@@ -147,8 +146,7 @@
 思惟。諸比丘！莫為放逸，後致悔恨，是我所¶
 教戒。」佛說經竟。
 
-時諸比丘，皆大歡喜，勸¶
-助受持。¶
+時諸比丘，皆大歡喜，勸助受持。¶
 《佛說時非時經》¶
 
 #+BEGIN_VERSE
@@ -163,7 +161,7 @@
 #+END_VERSE
 」¶
 
-天竺三藏法師若羅嚴，手執梵本，口自¶
+胡本，口自¶
 宣譯。涼州道人，于闐城中寫訖。¶
 
 #+BEGIN_VERSE
